@@ -1,0 +1,9 @@
+//Tristan Hayes
+//Porgram 6
+
+Bubble sort for 20000 integers took: 486ms
+Selection sort for 20000 integers took: 228ms
+Collection sort for 20000 integers took: 7ms
+Bubble sort for 10000 strings took: 512ms
+Selection sort for 10000 strings took: 164ms
+Collection sort for 10000 strings took: 4ms

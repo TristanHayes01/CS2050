@@ -1,0 +1,11 @@
+//Tristan Hayes
+//Program 7
+
+Bubble sort for 20000 integers took: 625ms
+Selection sort for 20000 integers took: 220ms
+Insertion sort for 20000 integers took: 32ms
+Collection sort for 20000 integers took: 8ms
+Bubble sort for 10000 strings took: 535ms
+Selection sort for 10000 strings took: 164ms
+Insertion sort for 10000 strings took: 142ms
+Collection sort for 10000 strings took: 3ms

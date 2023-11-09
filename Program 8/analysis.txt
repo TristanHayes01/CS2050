@@ -1,0 +1,6 @@
+//Tristan Hayes
+//Program 8
+
+Nodes: 10428
+Height of tree: 40
+Max number of nodes possible: 1,099,511,627,775
