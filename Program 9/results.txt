@@ -1,0 +1,6 @@
+//Tristan Hayes
+//Program 9
+Nodes: 20857
+Height of tree: 18
+The word "the" appeared 7833 times
+Max: 262,143
